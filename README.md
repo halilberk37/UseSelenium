@@ -5,6 +5,8 @@ Bu repo, Selenium kütüphanesi kullanarak geliştirilmiş çeşitli otomasyon p
 
 Özellikler
 
- Web Otomasyonu: Selenium, web tarayıcıları üzerinde işlemler gerçekleştirerek otomasyon sağlar.
- Test Otomasyonu: Web uygulamalarının test edilmesi için kullanılır.
- Veri Kazıma: Web sayfalarından veri toplama ve analiz etme işlemleri için kullanılabilir.
+Web Otomasyonu: Selenium, web tarayıcıları üzerinde işlemler gerçekleştirerek otomasyon sağlar.
+
+Test Otomasyonu: Web uygulamalarının test edilmesi için kullanılır.
+
+Veri Kazıma: Web sayfalarından veri toplama ve analiz etme işlemleri için kullanılabilir.
